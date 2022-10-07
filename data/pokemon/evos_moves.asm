@@ -205,6 +205,10 @@ RhydonEvosMoves:
 	db 48, HORN_DRILL
 	db 55, LEER
 	db 64, TAKE_DOWN
+	db 71, EARTHQUAKE
+	db 78, ROCK_SLIDE
+	db 85, BODY_SLAM
+	db 92, SUBSTITUTE
 	db 0
 
 KangaskhanEvosMoves:
